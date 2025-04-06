@@ -64,7 +64,7 @@ function About() {
       <div className="flex items-center space-x-12">
         <div className="flex-1">
           <p className="text-xl text-gray-600 leading-relaxed">
-            I am the developer and owner of the apps and games associated with this account. I use this account to receive payments from the app stores and clients who purchase or license my applications. With years of experience in mobile development, I specialize in creating high-quality, user-friendly applications that meet modern business needs.
+            I am the developer and owner of the apps and games associated with this account. I use this account to receive payments from the app stores and clients who purchase or license my applications. With years of experience in mobile development, i specialize in creating high-quality, user-friendly applications that meet modern business needs.
           </p>
         </div>
         <img 
